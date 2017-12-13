@@ -9,4 +9,4 @@ Permissions
 Problem Statement : a) What is the difference between Internal Storage & External Storage? b) For how long the data resides in the cache?
 c) What are the critical Permissions and Normal Permissions? What are the examples of each?
 
-I have attached .txt file describing the answer statements of above questions given in the Problem Statement. I have give examples too wherever required.
+I have attached .rtf file describing the answer statements of above questions given in the Problem Statement. I have give examples too wherever required.
